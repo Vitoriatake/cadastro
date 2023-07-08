@@ -22,7 +22,7 @@ body{
 .imagem-controle{
     position: fixed;
     top: 0;
-    left: 100%;
+    left: 40%;
     transform: translateX(-50%);
     width: 100%;
     object-fit: cover;
