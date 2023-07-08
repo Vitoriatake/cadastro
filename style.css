@@ -20,9 +20,9 @@ body{
     top:50%;
 }
 .imagem-controle{
-    position: absolute;
+    position: fixed;
     top: 0;
-    left: 50%;
+    left: 100%;
     transform: translateX(-50%);
     width: 100%;
     object-fit: cover;
