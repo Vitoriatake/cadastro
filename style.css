@@ -27,9 +27,9 @@ body{
     object-fit: cover;
 }
 .container{
-    padding: -20px;
+    padding: 20px;
     position: relative;
-    top: -5%;
+    top: -7%;
     left: 50%;
     transform: translate(-50%,50%);
     z-index: 1;
