@@ -20,20 +20,20 @@ body{
     top:50%;
 }
 .imagem-controle{
-    position: inherit;
+    position: absolute;
     top: 0;
     left: 50%;
     transform: translateX(-50%);
     width: 100%;
 }
 .container{
+     padding: 20px;
     position: relative;
     top: -2%;
     left: 50%;
     transform: translate(-50%,50%);
     z-index: 1;
     background-color: rgb(255, 255, 255);
-    padding: 20px;
     margin:20px;
     border-radius: 25px;
     box-shadow: 0 0 5px rgba(0,0,0,0.2);
