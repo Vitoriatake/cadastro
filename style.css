@@ -25,7 +25,7 @@ body{
     left: 50%;
     transform: translateX(-50%);
     width: 100%;
-    object-fir: contain;
+    object-fir: cover;
 }
 .container{
     padding: 20px;
