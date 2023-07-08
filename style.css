@@ -20,11 +20,12 @@ body{
     top:50%;
 }
 .imagem-controle{
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 50%;
     transform: translateX(-50%);
     width: 100%;
+    object-fir: contain;
 }
 .container{
     padding: 20px;
