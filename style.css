@@ -30,7 +30,7 @@ body{
   padding-left: 20px;
   padding-right: 20px; 
   background-clip: content-box;
-  position: relative;
+  position: absolute;
   top: 2%;
   left: 45%;
   transform: translate(-50%,50%);
