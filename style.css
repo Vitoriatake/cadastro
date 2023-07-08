@@ -27,15 +27,17 @@ body{
     object-fit: cover;
 }
 .container{
-    padding: 20px;
-    position: relative;
-    top: 2%;
-    left: 45%;
-    transform: translate(-50%,50%);
-    z-index: 1;
-    background-color: rgb(255, 255, 255);
-    border-radius: 25px;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+  padding-left: 20px;
+  padding-right: 20px; 
+  background-clip: content-box;
+  position: relative;
+  top: 2%;
+  left: 45%;
+  transform: translate(-50%,50%);
+  z-index: 1;
+  background-color: rgb(255, 255, 255);
+  border-radius: 25px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
 }
 .form-control{
     box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.2);
