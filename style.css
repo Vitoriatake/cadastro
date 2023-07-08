@@ -32,7 +32,7 @@ body{
   background-clip: content-box;
   position: absolute;
   top: -5%;
-  transform: translate(-45%);
+  transform: translate(-45%,50%);
   z-index: 1;
   background-color: rgb(255, 255, 255);
   border-radius: 25px;
