@@ -27,7 +27,7 @@ body{
     object-fit: container;
 }
 .container{
-    padding: 20%;
+    padding: 20px;
     position: relative;
     top: -2%;
     left: 50%;
