@@ -30,7 +30,7 @@ body{
   padding-left: 20px;
   padding-right: 20px; 
   background-clip: content-box;
-  position: absolute;
+  position: relatrive;
   top: -5%;
   transform: translate(-45%,50%);
   z-index: 1;
