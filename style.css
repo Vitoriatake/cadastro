@@ -24,10 +24,10 @@ body{
     left: 50%;
     transform: translateX(-50%);
     width: 100%;
-    object-fit: container;
+    object-fit: cover;
 }
 .container{
-    padding: 20px;
+    padding: -20px;
     position: relative;
     top: -5%;
     left: 50%;
