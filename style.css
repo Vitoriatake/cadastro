@@ -19,7 +19,7 @@ body{
     top:50%;
 }
 .imagem-controle{
-    position: relative;
+    position: absolute;
     top: 0;
     left: 50%;
     transform: translateX(-50%);
@@ -70,7 +70,7 @@ body{
 }
 .btn {
     display:block;
-    margin: 0;
+    margin: 5;
     background: linear-gradient(#1f9900,#2cd426);
     width: 150px;
     height: 45px;
