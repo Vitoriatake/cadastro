@@ -27,8 +27,8 @@ body{
     object-fit: contain;
 }
 .container{
-  padding:20px
-  position: absolute;
+  padding:20px;
+  position:absolute;
   top: 45%;
   left: 50%;
   margin:10px;
