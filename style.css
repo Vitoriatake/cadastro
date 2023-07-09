@@ -19,7 +19,7 @@ body{
     top:50%;
 }
 .imagem-controle{
-    position: relatice;
+    position: relative;
     top: 0;
     left: 50%;
     transform: translateX(-50%);
